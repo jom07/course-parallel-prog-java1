@@ -1,1 +1,1 @@
-https://www.linkedin.com/learning/parallel-and-concurrent-programming-with-java-1
+Linkedin course: https://www.linkedin.com/learning/parallel-and-concurrent-programming-with-java-1
