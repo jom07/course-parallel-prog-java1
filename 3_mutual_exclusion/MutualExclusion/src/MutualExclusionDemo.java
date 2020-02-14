@@ -10,14 +10,16 @@ class Shopper extends Thread {
     static Lock pencil = new ReentrantLock();
 
     public void run() {
-        for (int i=0; i<5; i++) {
+        for (int i = 0; i < 5; i++) {
             pencil.lock();
             garlicCount++;
             pencil.unlock();
             System.out.println(Thread.currentThread().getName() + " is thinking.");
             try {
                 Thread.sleep(500);
-            } catch (InterruptedException e) { e.printStackTrace(); }
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
         }
     }
 }

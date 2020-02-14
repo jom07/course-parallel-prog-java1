@@ -17,14 +17,15 @@ class CalendarUser extends Thread {
     }
 
     public void run() {
-        while (today < WEEKDAYS.length-1){
+        while (today < WEEKDAYS.length - 1) {
             if (this.getName().contains("Writer")) { // update the shared calendar
                 writeMarker.lock();
                 try {
-                    today = (today+1) % 7;
+                    today = (today + 1) % 7;
                     System.out.println(this.getName() + " updated date to " + WEEKDAYS[today]);
-                } catch (Exception e)
-                    {e.printStackTrace(); }
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
                 {
                     writeMarker.unlock();
                 }
@@ -45,11 +46,11 @@ class CalendarUser extends Thread {
 public class ReadWriteLockDemo {
     public static void main(String[] args) {
         // create ten reader threads
-        for (int i=0; i<10; i++)
-            new CalendarUser("Reader-"+i).start();
+        for (int i = 0; i < 10; i++)
+            new CalendarUser("Reader-" + i).start();
 
         // ...but only two writer threads
-        for (int i=0; i<2; i++)
-            new CalendarUser("Writer-"+i).start();
+        for (int i = 0; i < 2; i++)
+            new CalendarUser("Writer-" + i).start();
     }
 }

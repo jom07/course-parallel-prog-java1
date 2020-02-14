@@ -11,7 +11,7 @@ class Shopper extends Thread {
     }
 
     public void run() {
-        for (int i=0; i<10_000_000; i++)
+        for (int i = 0; i < 10_000_000; i++)
             addGarlic();
     }
 }

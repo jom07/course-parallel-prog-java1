@@ -1,5 +1,5 @@
 /**
- * Two shoppers adding items to a shared notepad
+ * Two shoppers adding items to a shared notepad.
  */
 
 import java.util.concurrent.atomic.*;
@@ -9,7 +9,7 @@ class Shopper extends Thread {
     static AtomicInteger garlicCount = new AtomicInteger(0);
 
     public void run() {
-        for (int i=0; i<10_000_000; i++)
+        for (int i = 0; i < 10_000_000; i++)
             garlicCount.incrementAndGet();
     }
 }

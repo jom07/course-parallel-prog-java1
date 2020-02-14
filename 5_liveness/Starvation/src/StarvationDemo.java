@@ -17,7 +17,7 @@ class Philosopher extends Thread {
 
     public void run() {
         int sushiEaten = 0;
-        while(sushiCount > 0) { // eat sushi until it's all gone
+        while (sushiCount > 0) { // eat sushi until it's all gone
 
             // pick up chopsticks
             firstChopstick.lock();
@@ -47,7 +47,7 @@ public class StarvationDemo {
         Lock chopstickA = new ReentrantLock();
         Lock chopstickB = new ReentrantLock();
         Lock chopstickC = new ReentrantLock();
-        for (int i=0; i<5000; i++) {
+        for (int i = 0; i < 5000; i++) {
             new Philosopher("Barron", chopstickA, chopstickB).start();
             new Philosopher("Olivia", chopstickA, chopstickB).start();
             new Philosopher("Steve", chopstickA, chopstickB).start();

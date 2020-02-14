@@ -1,5 +1,5 @@
 /**
- * Two shoppers adding garlic and potatoes to a shared notepad
+ * Two shoppers adding garlic and potatoes to a shared notepad.
  */
 
 import java.util.concurrent.locks.*;
@@ -24,7 +24,7 @@ class Shopper extends Thread {
     }
 
     public void run() {
-        for (int i=0; i<10_000; i++) {
+        for (int i = 0; i < 10_000; i++) {
             addGarlic();
             addPotato();
         }

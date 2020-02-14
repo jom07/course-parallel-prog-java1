@@ -1,29 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6fa911b-8f8e-4fb3-b763-5eb154c126ea" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="c6fa911b-8f8e-4fb3-b763-5eb154c126ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../3_mutual_exclusion/AtomicOperation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3_mutual_exclusion/AtomicVariable/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3_mutual_exclusion/MutualExclusion/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3_mutual_exclusion/SynchronizedStatement/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4_locks/ReadWriteLock/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4_locks/ReentrantLock/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4_locks/TryLock/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbandonedLock/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deadlock/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Livelock/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_threads_processes/DaemonThread/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2_threads_processes/DaemonThread/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_threads_processes/DaemonThread/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2_threads_processes/DaemonThread/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_threads_processes/DaemonThread/out/production/DaemonThreadDemo/DaemonThreadDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../2_threads_processes/DaemonThread/out/production/DaemonThreadDemo/DaemonThreadDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_threads_processes/DaemonThread/out/production/DaemonThreadDemo/KitchenCleaner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../2_threads_processes/DaemonThread/out/production/DaemonThreadDemo/KitchenCleaner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_threads_processes/ExecutionScheduling/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2_threads_processes/ExecutionScheduling/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_threads_processes/ExecutionScheduling/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2_threads_processes/ExecutionScheduling/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_threads_processes/ExecutionScheduling/out/production/ExecutionSchedulingDemo/ExecutionSchedulingDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../2_threads_processes/ExecutionScheduling/out/production/ExecutionSchedulingDemo/ExecutionSchedulingDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_threads_processes/ExecutionScheduling/out/production/ExecutionSchedulingDemo/VegetableChopper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../2_threads_processes/ExecutionScheduling/out/production/ExecutionSchedulingDemo/VegetableChopper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_threads_processes/Runnable/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2_threads_processes/Runnable/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_threads_processes/Runnable/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2_threads_processes/Runnable/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_threads_processes/Runnable/out/production/RunnableDemo/ChefOlivia.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../2_threads_processes/Runnable/out/production/RunnableDemo/ChefOlivia.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_threads_processes/Runnable/out/production/RunnableDemo/RunnableDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../2_threads_processes/Runnable/out/production/RunnableDemo/RunnableDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_threads_processes/ThreadLifecycle/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2_threads_processes/ThreadLifecycle/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_threads_processes/ThreadLifecycle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2_threads_processes/ThreadLifecycle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_threads_processes/ThreadProcess/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2_threads_processes/ThreadProcess/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_threads_processes/ThreadProcess/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2_threads_processes/ThreadProcess/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_mutual_exclusion/AtomicOperation/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_mutual_exclusion/AtomicOperation/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_mutual_exclusion/AtomicOperation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_mutual_exclusion/AtomicOperation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_mutual_exclusion/AtomicOperation/out/production/AtomicOperationDemo/AtomicOperationDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_mutual_exclusion/AtomicOperation/out/production/AtomicOperationDemo/AtomicOperationDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_mutual_exclusion/AtomicOperation/out/production/AtomicOperationDemo/Shopper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_mutual_exclusion/AtomicOperation/out/production/AtomicOperationDemo/Shopper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_mutual_exclusion/AtomicOperation/src/AtomicOperationDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_mutual_exclusion/AtomicOperation/src/AtomicOperationDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_mutual_exclusion/AtomicVariable/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_mutual_exclusion/AtomicVariable/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_mutual_exclusion/AtomicVariable/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_mutual_exclusion/AtomicVariable/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_mutual_exclusion/AtomicVariable/out/production/AtomicVariableDemo/AtomicVariableDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_mutual_exclusion/AtomicVariable/out/production/AtomicVariableDemo/AtomicVariableDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_mutual_exclusion/AtomicVariable/out/production/AtomicVariableDemo/Shopper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_mutual_exclusion/AtomicVariable/out/production/AtomicVariableDemo/Shopper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_mutual_exclusion/AtomicVariable/src/AtomicVariableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_mutual_exclusion/AtomicVariable/src/AtomicVariableDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_mutual_exclusion/DataRace/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_mutual_exclusion/DataRace/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_mutual_exclusion/DataRace/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_mutual_exclusion/DataRace/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_mutual_exclusion/MutualExclusion/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_mutual_exclusion/MutualExclusion/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_mutual_exclusion/MutualExclusion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_mutual_exclusion/MutualExclusion/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_mutual_exclusion/MutualExclusion/out/production/MutualExclusionDemo/MutualExclusionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_mutual_exclusion/MutualExclusion/out/production/MutualExclusionDemo/MutualExclusionDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_mutual_exclusion/MutualExclusion/out/production/MutualExclusionDemo/Shopper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_mutual_exclusion/MutualExclusion/out/production/MutualExclusionDemo/Shopper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_mutual_exclusion/MutualExclusion/src/MutualExclusionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_mutual_exclusion/MutualExclusion/src/MutualExclusionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_mutual_exclusion/SynchronizedMethod/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_mutual_exclusion/SynchronizedMethod/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_mutual_exclusion/SynchronizedMethod/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_mutual_exclusion/SynchronizedMethod/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_mutual_exclusion/SynchronizedMethod/out/production/SynchronizedMethodDemo/Shopper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_mutual_exclusion/SynchronizedMethod/out/production/SynchronizedMethodDemo/Shopper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_mutual_exclusion/SynchronizedMethod/out/production/SynchronizedMethodDemo/SynchronizedMethodDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_mutual_exclusion/SynchronizedMethod/out/production/SynchronizedMethodDemo/SynchronizedMethodDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_mutual_exclusion/SynchronizedMethod/src/SynchronizedMethodDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_mutual_exclusion/SynchronizedMethod/src/SynchronizedMethodDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_mutual_exclusion/SynchronizedStatement/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_mutual_exclusion/SynchronizedStatement/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_mutual_exclusion/SynchronizedStatement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_mutual_exclusion/SynchronizedStatement/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_mutual_exclusion/SynchronizedStatement/out/production/SynchronizedStatementDemo/Shopper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_mutual_exclusion/SynchronizedStatement/out/production/SynchronizedStatementDemo/Shopper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_mutual_exclusion/SynchronizedStatement/out/production/SynchronizedStatementDemo/SynchronizedStatementDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_mutual_exclusion/SynchronizedStatement/out/production/SynchronizedStatementDemo/SynchronizedStatementDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_mutual_exclusion/SynchronizedStatement/src/SynchronizedStatementDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_mutual_exclusion/SynchronizedStatement/src/SynchronizedStatementDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_locks/ReadWriteLock/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_locks/ReadWriteLock/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_locks/ReadWriteLock/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_locks/ReadWriteLock/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_locks/ReadWriteLock/out/production/ReadWriteLockDemo/CalendarUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_locks/ReadWriteLock/out/production/ReadWriteLockDemo/CalendarUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_locks/ReadWriteLock/out/production/ReadWriteLockDemo/ReadWriteLockDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_locks/ReadWriteLock/out/production/ReadWriteLockDemo/ReadWriteLockDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_locks/ReadWriteLock/src/ReadWriteLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_locks/ReadWriteLock/src/ReadWriteLockDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_locks/ReentrantLock/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_locks/ReentrantLock/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_locks/ReentrantLock/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_locks/ReentrantLock/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_locks/ReentrantLock/out/production/ReentrantLockDemo/ReentrantLockDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_locks/ReentrantLock/out/production/ReentrantLockDemo/ReentrantLockDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_locks/ReentrantLock/out/production/ReentrantLockDemo/Shopper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_locks/ReentrantLock/out/production/ReentrantLockDemo/Shopper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_locks/ReentrantLock/src/ReentrantLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_locks/ReentrantLock/src/ReentrantLockDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_locks/TryLock/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_locks/TryLock/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_locks/TryLock/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_locks/TryLock/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_locks/TryLock/out/production/TryLockDemo/Shopper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_locks/TryLock/out/production/TryLockDemo/Shopper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_locks/TryLock/out/production/TryLockDemo/TryLockDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_locks/TryLock/out/production/TryLockDemo/TryLockDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_locks/TryLock/src/TryLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_locks/TryLock/src/TryLockDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbandonedLock/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AbandonedLock/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbandonedLock/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AbandonedLock/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbandonedLock/out/production/AbandonedLock/AbandonedLockDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AbandonedLock/out/production/AbandonedLock/AbandonedLockDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbandonedLock/out/production/AbandonedLock/Philosopher.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AbandonedLock/out/production/AbandonedLock/Philosopher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbandonedLock/src/AbandonedLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AbandonedLock/src/AbandonedLockDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deadlock/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Deadlock/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deadlock/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Deadlock/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deadlock/out/production/DeadlockDemo/DeadlockDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Deadlock/out/production/DeadlockDemo/DeadlockDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deadlock/out/production/DeadlockDemo/Philosopher.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Deadlock/out/production/DeadlockDemo/Philosopher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deadlock/src/DeadlockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Deadlock/src/DeadlockDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Livelock/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Livelock/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Livelock/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Livelock/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Livelock/out/production/LivelockDemo/LivelockDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Livelock/out/production/LivelockDemo/LivelockDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Livelock/out/production/LivelockDemo/Philosopher.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Livelock/out/production/LivelockDemo/Philosopher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Livelock/src/LivelockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Livelock/src/LivelockDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StarvationDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StarvationDemo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/StarvationDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
-              <caret line="53" column="9" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -32,53 +102,22 @@
       </list>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/StarvationDemo.java" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="StarvationDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StarvationDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="1XndRtq3jvOT7ar2KNu2dsitjEO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552434230305" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
     <configuration name="StarvationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -107,48 +146,14 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="784" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.17553191" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.7019969" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/StarvationDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="53" column="9" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="1011" y="398" key="FileChooserDialogImpl" timestamp="1581685817381">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1011" y="398" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1581685817381" />
+    <state x="633" y="171" key="SettingsEditor" timestamp="1581685794834">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="633" y="171" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1581685794834" />
   </component>
 </project>

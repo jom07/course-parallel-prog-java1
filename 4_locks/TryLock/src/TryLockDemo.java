@@ -15,7 +15,7 @@ class Shopper extends Thread {
     }
 
     public void run() {
-        while (itemsOnNotepad <= 20){
+        while (itemsOnNotepad <= 20) {
             if ((itemsToAdd > 0) && pencil.tryLock()) { // add item(s) to shared notepad
                 try {
                     itemsOnNotepad += itemsToAdd;
@@ -50,6 +50,6 @@ public class TryLockDemo {
         barron.join();
         olivia.join();
         long finish = System.currentTimeMillis();
-        System.out.println("Elapsed Time: " + (float)(finish - start)/1000 + " seconds");
+        System.out.println("Elapsed Time: " + (float) (finish - start) / 1000 + " seconds");
     }
 }

@@ -2,36 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9c898c5-40c6-45df-9af8-c5e91d19f51e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../02_05/end/ExecutionSchedulingDemo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../02_09/end/RunnableDemo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../02_11/end/DaemonThreadDemo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../CH03/03_02/end/DataRaceDemo/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../.idea/parallel-prog-java1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../02_02/end/ThreadProcessDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02_02/end/ThreadProcessDemo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../02_05/end/ExecutionSchedulingDemo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02_05/end/ExecutionSchedulingDemo/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../02_05/end/ExecutionSchedulingDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02_05/end/ExecutionSchedulingDemo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../02_05/end/ExecutionSchedulingDemo/out/production/ExecutionSchedulingDemo/ExecutionSchedulingDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02_05/end/ExecutionSchedulingDemo/out/production/ExecutionSchedulingDemo/ExecutionSchedulingDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../02_05/end/ExecutionSchedulingDemo/out/production/ExecutionSchedulingDemo/VegetableChopper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02_05/end/ExecutionSchedulingDemo/out/production/ExecutionSchedulingDemo/VegetableChopper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../02_05/end/ExecutionSchedulingDemo/src/ExecutionSchedulingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02_05/end/ExecutionSchedulingDemo/src/ExecutionSchedulingDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DaemonThread/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DaemonThread/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DaemonThread/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DaemonThread/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DaemonThread/out/production/DaemonThreadDemo/DaemonThreadDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DaemonThread/out/production/DaemonThreadDemo/DaemonThreadDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DaemonThread/out/production/DaemonThreadDemo/KitchenCleaner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DaemonThread/out/production/DaemonThreadDemo/KitchenCleaner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExecutionScheduling/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExecutionScheduling/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExecutionScheduling/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExecutionScheduling/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExecutionScheduling/out/production/ExecutionSchedulingDemo/ExecutionSchedulingDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ExecutionScheduling/out/production/ExecutionSchedulingDemo/ExecutionSchedulingDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExecutionScheduling/out/production/ExecutionSchedulingDemo/VegetableChopper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ExecutionScheduling/out/production/ExecutionSchedulingDemo/VegetableChopper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Runnable/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Runnable/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Runnable/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Runnable/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Runnable/out/production/RunnableDemo/ChefOlivia.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Runnable/out/production/RunnableDemo/ChefOlivia.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Runnable/out/production/RunnableDemo/RunnableDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Runnable/out/production/RunnableDemo/RunnableDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThreadLifecycleDemo/ChefOlivia.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ThreadLifecycleDemo/ChefOlivia.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThreadLifecycleDemo/ThreadLifecycleDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ThreadLifecycleDemo/ThreadLifecycleDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThreadLifecycleDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThreadLifecycleDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../02_09/end/RunnableDemo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02_09/end/RunnableDemo/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../02_09/end/RunnableDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02_09/end/RunnableDemo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../02_09/end/RunnableDemo/src/RunnableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02_09/end/RunnableDemo/src/RunnableDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../02_11/end/DaemonThreadDemo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02_11/end/DaemonThreadDemo/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../02_11/end/DaemonThreadDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02_11/end/DaemonThreadDemo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../02_11/end/DaemonThreadDemo/src/DaemonThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02_11/end/DaemonThreadDemo/src/DaemonThreadDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../CH03/03_02/end/DataRaceDemo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CH03/03_02/end/DataRaceDemo/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../CH03/03_02/end/DataRaceDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CH03/03_02/end/DataRaceDemo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../CH03/03_02/end/DataRaceDemo/src/DataRaceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../CH03/03_02/end/DataRaceDemo/src/DataRaceDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +23,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="1XjQ0rkFM58gTbnuOlDrkwabFGl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -50,10 +34,11 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552329089614" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../02_05/end/ExecutionSchedulingDemo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ThreadProcess" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
     <configuration name="ThreadLifecycleDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -83,10 +68,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1672" y="401" key="FileChooserDialogImpl" timestamp="1581559326627">
+    <state x="1672" y="401" key="FileChooserDialogImpl" timestamp="1581685346487">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1672" y="401" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1581559326627" />
+    <state x="1672" y="401" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1581685346487" />
     <state width="1181" height="385" key="GridCell.Tab.0.bottom" timestamp="1581557819777">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -103,9 +88,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1181" height="385" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1581557819777" />
-    <state x="1266" y="174" key="SettingsEditor" timestamp="1581556817475">
+    <state x="1266" y="174" key="SettingsEditor" timestamp="1581685313996">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1266" y="174" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1581556817475" />
+    <state x="1266" y="174" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1581685313996" />
   </component>
 </project>

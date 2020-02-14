@@ -18,11 +18,11 @@ class Philosopher extends Thread {
     }
 
     public void run() {
-        while(sushiCount > 0) { // eat sushi until it's all gone
+        while (sushiCount > 0) { // eat sushi until it's all gone
 
             // pick up chopsticks
             firstChopstick.lock();
-            if (! secondChopstick.tryLock()) {
+            if (!secondChopstick.tryLock()) {
                 System.out.println(this.getName() + " released their first chopstick.");
                 firstChopstick.unlock();
                 try {
